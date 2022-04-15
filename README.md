@@ -57,9 +57,9 @@ After good results during bot image and text classifications we tested our model
     <li>GitHub:   <a href="https://github.com/NuneTadevosyan">Nune Tadevosyan</a></li>
     </ul>
 
-<h4 align="left">Supervised by Arsen Yegiazaryan</h4>
+<h4 align="left">Supervised by Arsen Yeghiazaryan</h4>
     <ul>
     <li>Machine Learning Team Lead at Webb Fontaine</li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721//">Arsen Yegiazaryan</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/arsen-yeghiazaryan-9abb4721//">Arsen Yeghiazaryan</a></li>
     </ul>
 <h3 align="center">Sourcemind AI/ML Specialist couse</h3>

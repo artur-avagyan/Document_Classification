@@ -1,0 +1,52 @@
+PONEIDEN AL
+
+PHILIP MORRIS U.S.A.
+INTERIM DEVELOPMENTAL
+SPECIFICATIONS
+
+DO NOT DUPLICATE [*™ a
+
+Origination D:
+
+12/02/88
+
+Revised Date:
+
+12/12/89
+
+|Supercedes Spec. Dated:04/25/29
+
+seo bebe mats [ow ners
+
+lPreparedby: cc. N. Chance
+
+lcomponent: Expansion Tube, Fabricated feveweay: C/pzax Rann
+
+terns
+=" z Reference:
+Engineering
+Drawing
+D No. €-226260
+Rev. C
++ ciel bel - B
+E
+MEASUREMENT
+CHARACTERISTICS ‘SPECIFICATION
+NOMINAL (TOLERANCES) | UNIT METHOD
+A. Length ‘36.60 (36.20 - 37.00) mm | Digital calip. or indicator,
+outer Diameter 7.78 (7.71 = 7.85) mm | Rotational LaserMike, or
+Circ. + 3.1416
+¢. Circumference 24.44 (24.22 - 24.66) mm | Rotational LaserMike
+D. Inner Diameter 7.04 (7,01 = 7.07) mm | Calculated: 0.D. -
+(Wall thickness x 2)
+E, Wall Thickness 0.37 (0.32 - 0.42) mm | 1D/OD LaserMike
+F. Weight Mettler balance
+
+fTs60s2.c0e
+
+satisfactorily on equipment.
+
+NOTES: Materials same as those for purchased tube, page I-38.
+
+Reason for Change: Changed A, B, C, & D to dimensions which have performed
+

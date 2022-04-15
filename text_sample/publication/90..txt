@@ -1,0 +1,132 @@
+Proc, Natl. Acad. Sc. USA
+Vol 81, pp. 4683-4657, May 1994
+Masieai Sienses
+
+Granulocyte colony-stimulating factor receptor signaling involves
+the formation of a three-component complex with Lyn and Syk
+
+protein-tyrosine kinases
+(crtokines/nematopictins/antigen receptor activation motif)
+
+‘Seri J. Coney*, ANNE L. BuRkHanprt, Josern B. BoLent, Rozerr L. Geanzent, Lisa S. Tkatcx§,
+
+Anp Davin J. Twearpy‘i
+
+Deparment of Pelikan Parmacclogy and {Mescine and Molclar Genes and Biches
+
+Universi ofPtsbugh School of Medicine andthe
+
+‘Patabrgh Cancer Instue,Psborgh, PA 131; "Deparaea! of Soleus Baiogy, Brio Myers Saito Pharmaceutical Research lsat, Peet, NI
+(8583; ‘Depatoca of Median Chemistry and Pharmcopay, Purdue Universi, West faye, IN 4907-133; and Deparment ot Midcne, Univerty
+
+of PnaboghSeboo of Medisne, Psp, PA T5213
+
+Communicated by Klaus Hofmann, February 3, 1994
+
+ABSTRACT Granulocyte colonystimulating factor (G=
+CSE) isa glycoprotein that critically regulates the viability,
+proliferation, and diferentiation of granulocytic precursors
+nd the function of neutrophils by signaling through is recep-
+tor. Cloning of the human G-CSF receptor (G-CSFR) cDNA
+has demonstrated sequence homology with other members of
+the hematopoietic/eytokine receptor superfamily. G-CSF
+stimulates the appearance of phosphotyrosine proteins in se¥~
+tral types of human and murine myeloid cells. Since the
+receptor does not possess intrinsic tyrosine kinase activity, we
+hypothesized that G-CSFR interacts with and activates cyto-
+solleproteinyrosine kinases (PTKS). fn vivo protein kinase
+assay of human G-CSFR immunopeecipitates demonstrated at
+least two tyrsine phasphoprotins,ppSS and pp70. We ob-
+served that G-CSF activated p52/ps6lyn, a Seerelated PTK,
+land p72:yk, a non-Sreselated PTK. Lym and Syk were recov.
+red in ant-G-CSFR immanoprecipitates; Lym was detected in
+the absence of ligand. In addition, upon G-CSF stimulation,
+Lyn colmmunoprecipitated with Spk. Analysis ofthe G-CSFR
+amino acid sequence revealed potential receptor activation
+‘motif for Sve. On the basis of immunopreciptation and
+
+forms:
+
+plex demonstrates the coordinated involvement of two PTKS
+with a member of the hematopoietic/eytokine receptor super-
+family.
+
+Granulocyte colony-stimulating factor (G-CSF) critically reg
+lulates the production and functional activity of neutrophilic
+granulocytes, the bulwark of host defense, and is emerging as
+the drug of choice for ameliorating chemotherapy induced
+bone marrow suppression and congenital neutropenia disor-
+ders (1, 2). The receptor for G-CSF belongs to the newly
+described family of hematopoietin/cytokine receptors (3,
+42). These receptors share the characteristics of no intrinsic,
+‘enzymatic activity, a single transmembrane domain, and
+‘eytokine receptor homology domain containing two sets of
+paired cysteines and a WSXWS motif. The hematopoietin
+Feceptors appear to transduce their signals via either &
+multichain complex—e.g.,. receptors for interleukin 2 (IL-2),
+‘granulocyte-macrophage (GM)-CSF, 11-3, IL-5, and IL-
+6—oF a homodimeric complex—e.g., receptors for G-CSF
+and growth hormone (4, ). A subset of receptor molecules
+for hematopoietins (G-CSF, IL-6, and leukemia inhibitory
+actor/oncastatin M) demonstrates homology in their extra-
+
+‘The publication oss of his atte were defayel in pact by pare charge
+payment This aricle must therfore be bereby marked advertisement
+In accordance with 18 U.S.C. $1734 solely 10 indicate this ct
+
+4683
+
+cellular region (4) Lite is known about the mechanisms of
+signal transduction for the G-CSF receptor (G-CSFR) and
+this subset of receptors. While G-CSF has been demonstrated
+to stimulate the Na*/H™ exchanger in human endothelial
+cells (6). G-CSF priming of neutrophils does not result in
+changes in resting transmembrane electrical potential, levels
+of intracellular free calcium, cytosolic pH, oF protein kinase
+C translocation (7). In the murine leukemia cell line NFS-60,
+G-CSF leads to increased binding of radiolabeled guanosine
+triphosphate to isolated cell membranes (8), implicating a role
+for guanine nucleotide-binding proteins in G-CSF signaling
+More recently, G-CSF stimulation has been demonstrated to
+result in early phosphorylation on tyrosine of proteins of
+‘5-60 kDa in neutrophils and the murine factor-dependent
+myeloid cel! lines 32Dc"3 and NFS-60 (ref. 9; D.J-T., un-
+published data); 73~75 kDa in neutrophils, HL-60 cells, and
+32De13 cells (ref. 10; DJ-T., unpublished data); 80-90 kDa
+in neutrophils and 32Dei3 ceils (ref. 1; D.J-T., unpublished
+data); 97 kDa in the factor-dependent human leukemic cell
+tine AML-193 (12); and 115 kDa in neutrophils (13). These
+results implicate @ role for nonteceptor protein-tyrosine
+kinases (PTKs) in G-CSF signaling. The identity of the
+PTK(s) associated with and activated by the G-CSER is
+unknown.
+
+MATERIALS AND METHODS
+
+Calls, Neutrophils were obtained from healthy adult vol:
+unteers as deseribed. Neutrophils were studied within 6 hr of
+venipuncture. The murine cell ine 32Dc13 was grown in
+Iscove's modified Dulbecco's medium (IMDM: GIBCO/
+BRL) containing 10% fetal calf serum and 108% WEHT:
+conditioned medium at 37°C with 5% COs, as described (4).
+Cells were washed twice with sterile PBS and resuspended ia
+serum and factor-ree IMDM supplemented with insulin and
+transferrin for 4-10 hr at 37°C with 5% COs,
+
+Reagents. Anti-Syk antiserum was raised in rabbits, using
+either the C-terminal 28 amino acids ofthe porcine sequence
+‘or a fusion protein containing the N-terminal unique se-
+‘quence and the first SH2 domain of porcine Syk (13). The
+former antiserum was superior for immune complex assays
+(S.J.C., unpublished data) but did not immunobiot (R.L.G..
+unpublished data, the latter antiserum did immunoblot Syk
+
+‘Abbreviations: G-CSF, granulocyte colonystimulating factor; GM-
+CSE, granulocyte-macrophage CSF, G-CSER, G-CSF. receptor:
+IK, protein-tyrosine kinase; RT, room temperature; PVDF. poly:
+nvitdene Nuerde).
+
+To whom reprint requests should be addressed at: Biomedical
+‘Science Tower, Koor Wi082,Pitsburgh Cancer Instiute, DeSoto
+at O'Hara Strets, Pitsburgh, PA 15213,
+

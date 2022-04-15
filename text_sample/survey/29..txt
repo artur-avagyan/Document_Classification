@@ -1,0 +1,53 @@
+(QUESTIONNATRE,
+
+4. What is your regular brand of cigarettes, the brand you smoke most often? (RECORD
+COMPLETE BRAND NAME)
+
+Specify Complete Brand Name
+
+More than one brand... 2
+No regular brand... - 3 SKIP TO Q.4a
+
+Just started smoking... 4
+
+Don't Know. 2s eee 5
+
+CHECK QUOTAS FOR: Menthol Kings ... 1
+
+Menthol 100/120'S . 2
+
+Non-Menthol Kings - 3
+
+Non-Menthol 100/120's 4
+
+PROBE FOR Q.4:
+
+* IF RESPONDENT GIVES JUST THE "FAMILY NAME" THAT APPEARS ON LIST A - FAMILY
+NAME LIST, YOU MUST GET THE "COMPLETE NAME" (REFER TO LIST B - COMPLETE
+‘BRAND NAME LIST).
+
+FOR EXAMPLE: "You said you smoke BARCLAY. Is that the BARCLAY Kings
+Regular, the Kings Menthol, the 100's Reqular or the 100's Menthol?"
+READ ONLY WHATEVER TYPES ARE NECESSARY EXACTLY AS WRITTEN ON EACH LINE
+OF LIST B.
+
+* IF RESPONDENT GIVES A NAME THAT DOES NOT APPEAR ON LIST A - FAMILY NAME
+LIST, THE BRAND IS A STORE BRAND/PLAIN PACK/GENERIC/OTHER. REFER TO
+
+LIST C ~ GENERIC/OTHER BRAND LIST AND ASK:
+
+(PROBE:) Is that Kings or 100's?
+
+(PROBE:) Is that Menthol or Non-Menthol?
+
+(PROBE:) Is that Ultra Lights, Lights, or Full Flavor?
+
+RECORD COMPLETE NAME OF GENERIC/STORE BRAND/OTHER IN SPACE PROVIDED IN
+Q.4.
+
+SKIP TO Q.5a
+
+gz 60Lev0e
+
+1602-90607/Quest.
+

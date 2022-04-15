@@ -1,0 +1,49 @@
+PROJECT NUMBER: 1620
+
+PROJECT TITLE: Electrophysiological Studies
+PROJECT LEADER: FP, Gullotta
+
+WRITTEN BY: C. S. Hayes
+
+PERIOD COVERED: June, 1988
+
+I. NASAL EVENT-RELATED POTENTIALS (NERDS)
+A.
+
+D.
+
+Objective: To develop methods by which to objectively and reliably
+evaluate human responses to cigarettes, smoke constituents and
+tobacco flavorants.
+
+Results
+1. Cognitive NERP study
+
+Cognitive NERP experiments have been initiated with the goal of
+utilizing these responses to discriminate differences among
+flavorants. Employing a cognitive (cdd-ball) paradigm, pairs of
+stimuli (natural menthol vg CO; and natural vs synthetic
+menthol) are being presented to subjects at different probabil-
+ities of occurrence (standard = 0.85 vs target = 0.15)
+Preliminary evidence suggests that subjects are quite good at
+discriminating between both the menthol and CO, and the natural
+and synthetic menthol. That is, subjects are differentiating
+the targets from the standards and a late positive component is
+being recorded in response to the targets that is not found in
+the standards. Statistical analyses comparing the target and
+standard NERPs are currently being conducted as a means of
+quantifying the differences in the responses.
+
+Blans: Immediate plans are to test ten subjects in the cognitive
+Paradigm comparing natural menthol to CO, and synthetic to natural
+menthol. Further plans include the testing of mixtures of natural
+and synthetic menthol, d-menthol, (+)-isomenthol and other yet-to-be
+determined menthoi-like compounds.
+
+References:
+
+1. Hayes, C. S. Notebook No. 8584, pp. 30-40.
+
+6LTSTT 002
+
+39

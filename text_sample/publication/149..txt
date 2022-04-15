@@ -1,0 +1,118 @@
+Neurochemistry
+
+neuroreport
+
+‘Tue effect of the cholinesterase inhibitor neostigmine
+‘on hippocampal noradcenaline (NA) release was studied
+Using ix vion microdialysis. Local application of azo
+fgmine significantly increased the release of NA. The
+fect was potentiated by coperfusion of the nicotinic
+gatagoni Imecamplamine byt wan completely Blocked
+
+by the muscarinic antagonist atropine. The neost
+sed by the M2-
+
+‘mine-evoked INA release Wwas not al
+Sect mca ay ine but war com
+iy 5 the antago-
+bist pirenzepine, While muscarinic antagonists had no
+effect on the resting release of NA, mecamylamine
+increased it. Our data indicate that acetylcholine can
+sGmulat the hippocampal NA release via MI muscari
+Inie receptors and that 2 population of nicotinic
+tors mediate inhibitory’ tone on hippocampal NA
+release, The fact that neostigmine is able to enhance
+both cholinergic and noradrenergic neurotransmission
+ray help to understand the beneficial effect of cholines-
+terase inhibitors in Alzheimer's disease. NewroReport
+10:81-86 © 1999 Lippincote Williams & Wilkins.
+
+Keywords Accyistlin, Hippocampus, Micon
+ftcarinie receptors; Neostigmine; Nicotinic receptors:
+Noradressinevelese a
+
+[NeuroReport 10, 81-86 (1999)
+
+Effect of neostigmine on
+the hippocampal
+noradrenaline release:
+role of cholinergic
+receptors
+
+Janos P. Kiss,’° E. Sylvester Vizi?
+and Ben H.C. Westerink’
+
+‘Department of Medicinal Chemistry, University
+Center for Pharmacy, University of Groningen,
+Groningen, The Netherlands; “Department of
+Pharmacology, Institute of Experimental Medicine,
+Hungarian Academy of Sciences, H-1450
+Budapest, PO Box 67, Hungary
+
+(A2Corresponding Author and Addeess
+
+Introduction
+
+‘Ageing and Alzheimer’s disease (AD) are associated.
+‘with the-rapid decline of cognitive functions. It is
+generally accepted that the impairment of choliner-
+gic neurotransmission plays 2 crucial role in this
+process [1]. Evidence from several studies indicates
+that noradrenergic dysfunction is also an imporcant
+factor in memory decline [2,3]- These observations
+suggest that the cholinergic-noradrenergic inter-
+action may have special importance in cognitive
+funetions.
+
+Cholinesterase inhibitors (ChEIs) are the current
+‘drugs of choice in the treatment of AD [4]. A direct
+correlation was found between the level of acetyl-
+cholinesterase inhibition, increase of extracellular
+concentration of ACh in cortex and hippocampus
+‘and cognitive improvement [4]. It has been observed
+that ChEls depending on the compound and route
+of administration may have various effects on the
+extracellular concentration of NA in the cortex [5],
+but no studies have investigated how the increased
+level of ACh affects the fonction of noradrenergic
+neurotransmission in the hippocampus, although
+this brain region has a crucial role in memory
+functions and learning. Thus it seemed interesting to
+study the effect of the CEI neostigmine on the
+extracellular level of NA in the hippocampus.
+
+(0959-4065 5 Lippincott Willams & Wikio
+
+‘The axon terminals in the hippocampus are
+equipped with different stimulatory and inhibitory
+receptors being able to affect the release of transmit-
+ters. It has been shown that nicotinic acetylcholine
+receptors (aACHRs) play an important role in the
+regulation of noradrenergic neurotransmission in the
+central and peripheral nervous system [6,7}. In our
+previous studies [8-10] we investigated the effect of
+nicotinic. receptor agonists on the noradrenaline
+(NA) release from rat hippocampal slices and we
+found chat these compounds increase the NA release
+through activation of nAChRs. The localization of
+these receptors was also clarified since nicotinic
+agonists increased the release of NA from rat
+hippocampal synaptosomes, indicating that the
+AACHRs responsible for this stimulatory effect are
+localized on the noradrenergic varicosities (11]. In
+contrast, at che beginning of our experiments there
+‘were no neurochemical data on the presence of MI
+receptors on noradrenergic varicosities and inhil
+
+tory M2 receptors were not shown on hippocampal
+noradrenergic terminals [12]. Since the majority
+(© 90%) of cholinergic varicosities make no synaptic
+contact in the hippocampus [13] and there is no
+morphological evidence for synaptic contacts be-
+tween cholinergic and noradrenergic axons in this
+brain region, cholinergic receptors on noradrenergic
+varicosities may play a role only in non-synaptic
+
+Vol 10No 1 18Januay 1609 BT
+
+S969SPbL0z

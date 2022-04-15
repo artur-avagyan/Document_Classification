@@ -1,0 +1,39 @@
+June 8, 1998
+
+Vtech Engineering Corporation
+Attention: Patrick Cobler
+
+33 Nagog Park
+
+Acton, MA 01720
+
+RE:
+
+Amendment No. 3 to Agreement Dated April 4, 1996 Between
+‘Vtech Engineering Corporation and Philip Morris Incorporated
+
+Gentlemen:
+
+Philip Morris Incorporated (‘PM USA") desires to amend its Agreement with
+Vtech Engineering Corporation ("Vtech") dated April 4, 1996 as amended by the
+Amendment dated April 22, 1997 and Amendment No. 2 dated September 30, 1997
+(collectively the "Agreement’) as follows:
+
+Replace the first sentence of Paragraph 1 with the following:
+
+Viech will (a) carry out primary induction heating development activities; (b)
+carry out secondary inductive cleaning development activities; (¢) develop a product
+identification demonstration system; and (d) carry out development activities for a
+catalyst inductive heating system (collectively, " the Services")
+
+Add the following new subparagraph (d) following subparagraph (c) of
+Section 1:
+
+(A) Catalyst Inductive Heating System
+
+1) Coil Driver Feasibility Boards. Vtech will design, fabricate, test and
+deliver five (5) coil driver boards, and eight (8) inductive heating coils, for use as
+preliminary test vehicles to assist the development of a Catalyst Inductive Heating
+System. Vtech will include in the coil driver design the ability to accept an external TTL.
+
+2078543860

@@ -1,0 +1,63 @@
+ia USE ONLY
+V.
+
+cec____ceCK__CECC__o&c__o&¢x__otcc.
+MARKETING INFORMATION SYSTEMS, INC. #835987
+100 Sylvan Avenue aigist, 18
+
+Englewood Cliffs, New Jersey 07632
+1-800-631-1623/201-947-6900
+(CAP_AD/CARTON TEST
+
+(Screener)
+
+Hello, I'm of Marketing Information Systems. We're conducting an
+opinfon survey today among-wonen between the ages of 18 and 54 about various products
+Used in the household and I'd Tike to ask you a few questions.
+
+1. First of all, are you between the ages of 18 and 542 z
+Yes... ( ) Nore CY.
+| ‘(Tiianx’ ano’ TERMINATE)
+2. And are you between 18 and 34 years of age or between 35 and 54 years of age?
+a) |
+(CHECK QUOTAS
+(joa. | SOHECK quoTas)
+3. (RECORD, DO NOT ASK:)
+(COLTS BLANK]
+2 10C +1
+
+31g ores vx. ot
+
+4. Next, I'm going to read you a list of products. For each one I read, please
+tell me if you, yourself, use the product. The first one 1s... (READ ENTIRE
+LIST ONE AT’A TIME AND RECORD).
+
+Yes No.
+Antacids. nO yt CY
+Aspirin. ow Cee 0)
+Beer... Ce 0)
+Breakfast cereals, Ca ¢)
+Cigarettes. ()-8 (THAR AMO TERAINATE]
+Diet soda. ( 6 ( )
+Frozen vegetables. Cro)
+
+WHEN ASKING Q.5 AND/OR Q.7, PROBE FOR EXACT OCCUPATION. IF JOURNALISM, PUBLIC
+RELATIONS, ADVERTISING, OR’MARKETING ANSWERED IN EITHER QUESTION, THANK RESPON-
+DENT AND TERMINATE.
+
+5. Since we're talking to people all across the country, we're interested in talking
+toa cross-section of people in different occupations. What {s your occupation?
+
+(RITE -IW-FULL TITCEY
+
+TIF RESPONDENT GIVES A GENERAL OCCUPATION SUCH AS SALES OR MANUFACTURING, ASK:
+What projets are involved fn your occupation? (TERMINATE TF RESPOMENT NSWERS,
+
+WRITE-IN PRODUCTS
+
+6. Are you married?
+
+LLSPZISHOS
+
+Yes...12( <1 Wore (2.
+(Gourive wiTH 9.7) (SxrP To 0.8)

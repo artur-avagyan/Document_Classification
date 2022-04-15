@@ -41,7 +41,7 @@ After good results during bot image and text classifications we tested our model
 
 <h4 align="left">Artur Avagyan</h4>
     <ul>
-    <li>Responsible Actuary in Armenia Insurance/li>
+    <li>Responsible Actuary in Armenia Insurance</li>
     <li>Student from YSU (Data Science for Business Master's Degree Program)</li>
     <li>E-mail:   avagyan.artur97@gmail.com</li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/artur-avagyan-0a16311b3">Artur Avagyan</a></li>
